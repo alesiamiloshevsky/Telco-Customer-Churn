@@ -28,3 +28,7 @@ The [Churn Rate Dashboard](https://public.tableau.com/app/profile/alesia.miloshe
 - Create **loyalty rewards** for customers who reach specific tenure milestones.
 - Promote **more secure and convenient payment methods** to electronic check users.
 - Engage **new customers early** with personalized offers to prevent early churn.
+
+## 🛠 Tools Used
+- Tableau – Data visualization and dashboard creation  
+- Kaggle – Dataset source ([Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
