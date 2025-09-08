@@ -31,4 +31,4 @@ The [Churn Rate Dashboard](https://public.tableau.com/app/profile/alesia.miloshe
 
 ## 🛠 Tools Used
 - Tableau – Data visualization and dashboard creation  
-- Kaggle – Dataset source ([Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
+- Kaggle – Dataset source
