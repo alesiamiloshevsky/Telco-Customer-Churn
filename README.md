@@ -8,8 +8,8 @@ Key fields include:
 - Churn – Target variable indicating if a customer left the company.
 - Tenure – Number of months a customer has stayed.
 - Contract – Month-to-month, one-year, or two-year agreements.
-- PaymentMethod – Billing method used.
-- MonthlyCharges & TotalCharges – Billing amounts.
+- Payment Method – Billing method used.
+- Monthly Charges and Total Charges – Billing amounts.
 - Service-related features such as InternetService, OnlineSecurity, TechSupport, StreamingTV, and MultipleLines.
 
 ## 📊 Visulization
